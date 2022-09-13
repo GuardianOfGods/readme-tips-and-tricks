@@ -1,3 +1,6 @@
+[![Contributors][contributors-shield]][contributors-url]
+
+
 # readme-tips-and-tricks
 some awesome tips and tricks of README.md
 ### Embed a youtube video
@@ -15,3 +18,11 @@ https://user-images.githubusercontent.com/52252046/189858174-5d8f8938-353a-4b74-
 
 This project exists thanks to all the people who contribute. 
 - [GuardianOfGods](https://github.com/GuardianOfGods)
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[contributors-shield]: https://img.shields.io/github/contributors/GuardianOfGods/readme-tips-and-tricks
+[contributors-url]: https://github.com/GuardianOfGods/readme-tips-and-tricks/graphs/contributors
+
+
