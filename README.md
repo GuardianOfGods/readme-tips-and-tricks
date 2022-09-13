@@ -5,7 +5,7 @@ some awesome tips and tricks of README.md
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-2. Drag a file to issue and get link (watch video below)
+2. Drag a file to issue and get link _**(watch video below)**_
 
 https://user-images.githubusercontent.com/52252046/189858174-5d8f8938-353a-4b74-9363-47569467d12b.mp4
 
